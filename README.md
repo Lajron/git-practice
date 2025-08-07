@@ -8,3 +8,7 @@ TEST
 
 -danicina linija 2
 - maca linija nova
+
+trebalo bi na glavnu
+
+trebalo bi na moju granu
